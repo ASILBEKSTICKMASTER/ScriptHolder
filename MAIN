@@ -1,1 +1,2 @@
--- ASILBEK'S PRIVATE SCRIPT HOLDER
+local item = game:GetService("ReplicatedStorage"):WaitForChild("AvatarEditor"):WaitForChild("RemoteEvent")
+item:FireServer("accessory",119086102)
